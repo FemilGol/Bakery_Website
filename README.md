@@ -1,8 +1,1 @@
-# Cake-Website
-
-All dependencies files are here you can download 
-
-and
-
-follow up with the video for **index.html** and **style.css**
-
+Online bakery Store is a web application for browsing, filtering, and purchasing cakes and other items with user accounts, cart, and order management. The backend is built with css ,html and normaljs while the frontend provides a user-friendly interface for smooth purchasing experience.
